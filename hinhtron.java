@@ -6,7 +6,7 @@ public class hinhtron {
         float dientich ;
         void nhapbankinh () {
             System.out.println(bankinh)
-            Scanner scanner = new Sccanner(System.in);
+            Scanner scanner = new Scanner(System.in);
             r = scanner.nextfloat() ;
         }
         void tinhchuvi() {

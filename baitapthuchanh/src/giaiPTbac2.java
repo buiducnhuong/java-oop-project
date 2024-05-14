@@ -1,7 +1,7 @@
-public class giaiPTbac2 {
+public class GiaiPTbac2 {
     public static void main(String[] args) {
         double a, b, c, x1, x2, delta;
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new sc(System.in);
         System.out.print("Nhập hệ số a: ");
         a = sc.nextDouble();
         System.out.print("nhập hệ số b : ");
